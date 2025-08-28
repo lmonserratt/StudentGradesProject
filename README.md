@@ -5,8 +5,7 @@
 **CRN:** 14877  
 **Term:** Fall 2025
 **Name:** Luis Augusto Monserratt Alvarado  
-**Course:** COP 3024C  
-**CRN:** 31774  
+
 
 ## 📘 Description
 
